@@ -2,16 +2,10 @@ body{
 	padding-top: 70px;
 }
 
-
 body, html {
     height: 100%;
 }
 
-/*.img-fluid {
-  max-width: 100%;
-  height: auto;
-}
-*/
 .jumbotron {
 	color: #2c3e50;
 }
